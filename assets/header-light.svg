@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+  <title id="title">Htet Aung Linn — Full-Stack Software Engineer</title>
+  <desc id="desc">Full-stack software engineer working with Next.js, Node.js, TypeScript and MongoDB. Software Engineer at Famoulee, working remotely from Bangkok.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.3" fill="#eef0f4"/></pattern>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 40) scale(520 360)"><stop stop-color="#4169e1" stop-opacity="0.12"/><stop offset="1" stop-color="#4169e1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 380) scale(460 300)"><stop stop-color="#4169e1" stop-opacity="0.1"/><stop offset="1" stop-color="#4169e1" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nameGrad" x1="64" y1="0" x2="584" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#0b0b0b"/><stop offset="1" stop-color="#4169e1"/></linearGradient>
+    <clipPath id="card"><rect width="1200" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#ffffff"/>
+    <rect width="1200" height="420" fill="url(#dots)"/>
+    <rect width="1200" height="420" fill="url(#glowA)"/>
+    <rect width="1200" height="420" fill="url(#glowB)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="19.5" fill="none" stroke="#e4e7ec"/>
+
+  <text x="64" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#4169e1">// hello, world — I’m</text>
+  <text x="62" y="182" font-size="62" font-weight="800" letter-spacing="-1.5" fill="url(#nameGrad)">Htet Aung Linn</text>
+  <text x="64" y="228" font-size="26" font-weight="500" fill="#52514e">Full-Stack Software Engineer</text>
+  <g transform="translate(64,262)"><rect width="85" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="42.5" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">Next.js</text></g><g transform="translate(157,262)"><rect width="85" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="42.5" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">Node.js</text></g><g transform="translate(250,262)"><rect width="116" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="58" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">TypeScript</text></g><g transform="translate(374,262)"><rect width="92" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="46" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">MongoDB</text></g><g transform="translate(474,262)"><rect width="71" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="35.5" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">React</text></g><g transform="translate(553,262)"><rect width="88" height="34" rx="17" fill="#f1f4fd" stroke="#d5ddf6"/><text x="44" y="22.5" text-anchor="middle" font-size="16" font-weight="500" fill="#0b0b0b">Angular</text></g>
+  <g transform="translate(64,336)">
+    <circle cx="8" cy="0" r="5" fill="#1a7f37"/>
+    <circle cx="8" cy="0" r="5" fill="none" stroke="#1a7f37" stroke-width="2"><animate attributeName="r" values="5;12" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="26" y="6" font-size="17" fill="#52514e">Software Engineer @ Famoulee&#160; ·&#160; Remote (DE)&#160; ·&#160; Bangkok, GMT+7</text>
+  </g>
+
+  <!-- code window -->
+  <rect x="680" y="60" width="470" height="300" rx="14" fill="#f7f8fa" stroke="#e4e7ec"/>
+  <path d="M680 104h470" stroke="#e4e7ec"/>
+  <circle cx="702" cy="82" r="6" fill="#ff5f57"/><circle cx="722" cy="82" r="6" fill="#febc2e"/><circle cx="742" cy="82" r="6" fill="#28c840"/>
+  <text x="915" y="87" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8b8f98">htet.ts</text>
+  <clipPath id="l0"><rect x="704" y="120" height="28" width="0"><animate attributeName="width" from="0" to="139" begin="0.50s" dur="0.25s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="138" clip-path="url(#l0)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#8839c9">const&#160;</tspan><tspan fill="#52514e">htet&#160;</tspan><tspan fill="#52514e">=&#160;{</tspan></text>
+<clipPath id="l1"><rect x="704" y="148" height="28" width="0"><animate attributeName="width" from="0" to="292" begin="0.95s" dur="0.54s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="166" clip-path="url(#l1)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;role</tspan><tspan fill="#52514e">:&#160;</tspan><tspan fill="#2f7d32">&quot;Full-Stack&#160;Engineer&quot;</tspan><tspan fill="#52514e">,</tspan></text>
+<clipPath id="l2"><rect x="704" y="176" height="28" width="0"><animate attributeName="width" from="0" to="244" begin="1.40s" dur="0.45s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="194" clip-path="url(#l2)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;basedIn</tspan><tspan fill="#52514e">:&#160;</tspan><tspan fill="#2f7d32">&quot;Bangkok,&#160;TH&quot;</tspan><tspan fill="#52514e">,</tspan></text>
+<clipPath id="l3"><rect x="704" y="204" height="28" width="0"><animate attributeName="width" from="0" to="321" begin="1.85s" dur="0.59s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="222" clip-path="url(#l3)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;workingAt</tspan><tspan fill="#52514e">:&#160;</tspan><tspan fill="#2f7d32">&quot;Famoulee&#160;(remote)&quot;</tspan><tspan fill="#52514e">,</tspan></text>
+<clipPath id="l4"><rect x="704" y="232" height="28" width="0"><animate attributeName="width" from="0" to="398" begin="2.30s" dur="0.74s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="250" clip-path="url(#l4)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;stack</tspan><tspan fill="#52514e">:&#160;[</tspan><tspan fill="#2f7d32">&quot;Next&quot;</tspan><tspan fill="#52514e">,&#160;</tspan><tspan fill="#2f7d32">&quot;Node&quot;</tspan><tspan fill="#52514e">,&#160;</tspan><tspan fill="#2f7d32">&quot;TS&quot;</tspan><tspan fill="#52514e">,&#160;</tspan><tspan fill="#2f7d32">&quot;Mongo&quot;</tspan><tspan fill="#52514e">],</tspan></text>
+<clipPath id="l5"><rect x="704" y="260" height="28" width="0"><animate attributeName="width" from="0" to="196" begin="2.75s" dur="0.36s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="278" clip-path="url(#l5)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;yearsShipping</tspan><tspan fill="#52514e">:&#160;</tspan><tspan fill="#b35c00">4</tspan><tspan fill="#52514e">+,</tspan></text>
+<clipPath id="l6"><rect x="704" y="288" height="28" width="0"><animate attributeName="width" from="0" to="283" begin="3.20s" dur="0.52s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="306" clip-path="url(#l6)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#2a5bd7">&#160;&#160;loves</tspan><tspan fill="#52514e">:&#160;</tspan><tspan fill="#2f7d32">&quot;fast,&#160;reliable&#160;UX&quot;</tspan><tspan fill="#52514e">,</tspan></text>
+<clipPath id="l7"><rect x="704" y="316" height="28" width="0"><animate attributeName="width" from="0" to="24" begin="3.65s" dur="0.20s" fill="freeze"/></rect></clipPath>
+    <text x="704" y="334" clip-path="url(#l7)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#52514e">};</tspan></text>
+  <rect x="725.2" y="319" width="9" height="19" fill="#4169e1" opacity="0"><set attributeName="opacity" to="1" begin="4.10s"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="4.10s" repeatCount="indefinite"/></rect>
+</svg>
