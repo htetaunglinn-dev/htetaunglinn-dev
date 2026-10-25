@@ -99,7 +99,7 @@ function header(t) {
 
 const JOBS = [
   { when: 'Jun 2022 – Jan 2023', company: 'Smilax Global', role: 'Mid Frontend Developer', where: 'Yangon, Myanmar' },
-  { when: 'Jun 2023 – Jan 2024', company: 'ThitsaWorks', role: 'Software Engineer · Fintech', where: 'Yangon, Myanmar' },
+  { when: 'Jun 2023 – Jan 2024', company: 'ThitsaWorks', role: 'Software Engineer · Fintech', where: 'Remote · Singapore' },
   { when: 'Jan 2024 – Feb 2026', company: 'GoFive', role: 'Software Engineer', where: 'Bangkok, Thailand' },
   { when: 'Mar 2026 – Present', company: 'Famoulee', role: 'Software Engineer', where: 'Remote · Germany', now: true },
 ];

@@ -135,7 +135,7 @@ I build web products from front to back: Next.js and React on the front end, Nod
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
-  <img alt="Experience: Smilax Global, Mid Frontend Developer (Jun 2022 to Jan 2023, Yangon). ThitsaWorks, Software Engineer (Jun 2023 to Jan 2024, Yangon). GoFive, Software Engineer (Jan 2024 to Feb 2026, Bangkok). Famoulee, Software Engineer (Mar 2026 to present, remote, Germany)." src="assets/experience-dark.svg" width="100%">
+  <img alt="Experience: Smilax Global, Mid Frontend Developer (Jun 2022 to Jan 2023, Yangon). ThitsaWorks, Software Engineer (Jun 2023 to Jan 2024, remote, Singapore). GoFive, Software Engineer (Jan 2024 to Feb 2026, Bangkok). Famoulee, Software Engineer (Mar 2026 to present, remote, Germany)." src="assets/experience-dark.svg" width="100%">
 </picture>
 
 ### Activity
